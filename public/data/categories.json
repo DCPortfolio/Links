@@ -1,0 +1,485 @@
+[
+  {
+    "id": 1,
+    "title": "Activity",
+    "active": true,
+    "cards": [
+      {
+        "id": 1,
+        "title": "Start",
+        "fliped": false,
+        "img": null,
+        "links": [
+          {
+            "id": 1,
+            "title": "7zip",
+            "link": "sourceforge.net/projects/sevenzip/files/7-Zip/19.00/7z1900-x64.exe/download"
+          },
+          {
+            "id": 2,
+            "title": "qBitTorrent",
+            "link": "qbittorrent.org/download.php"
+          },
+          { "id": 3, "title": "DriverPack", "link": "drp.su/ru" },
+          {
+            "id": 4,
+            "title": "Aact / KMS",
+            "link": "windowsobraz.com/aktivatory/115-aktivator-windows-2018-aact-383-portable.html"
+          },
+          {
+            "id": 5,
+            "title": "Revo Unistaller",
+            "link": "revouninstaller.com/ru/revo-uninstaller-free-download"
+          },
+          {
+            "id": 6,
+            "title": "K-Lite Codec Pack",
+            "link": "codecguide.com/download_kl.htm"
+          },
+          {
+            "id": 7,
+            "title": "Chrome",
+            "link": "google.com/intl/ru_ru/chrome"
+          },
+          {
+            "id": 8,
+            "title": "Notepad++",
+            "link": "notepad-plus-plus.org/downloads"
+          },
+          {
+            "id": 9,
+            "title": "Picasa",
+            "link": "picasa.ru.uptodown.com/windows/download"
+          },
+          { "id": 10, "title": "VLC", "link": "videolan.org/vlc/index.ru.html" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Utilites",
+        "fliped": false,
+        "img": null,
+        "links": [
+          {
+            "id": 1,
+            "title": "Psiphon",
+            "link": "psiphon3.com/ru/index.html"
+          },
+          {
+            "id": 2,
+            "title": "Cool - Retro - Term",
+            "link": "gist.github.com/h3r/2d5dcb2f64cf34b6f7fdad85c57c1a45"
+          },
+          {
+            "id": 3,
+            "title": "Punto Switcher",
+            "link": "yandex.ru/soft/punto"
+          },
+          {
+            "id": 4,
+            "title": "ProcessHacker",
+            "link": "processhacker.sourceforge.io"
+          },
+          { "id": 5, "title": "Ueli", "link": "electronjs.org/apps/ueli" },
+          {
+            "id": 6,
+            "title": "GitAhead",
+            "link": "gitahead.github.io/gitahead.com"
+          },
+          { "id": 7, "title": "TortoiseGit", "link": "tortoisegit.org" },
+          {
+            "id": 8,
+            "title": "FireWork",
+            "link": "firework.cloud/en/windows"
+          },
+          {
+            "id": 9,
+            "title": "Todoist",
+            "link": "microsoft.com/ru-ru/p/todoist-to-do-list-and-task-manager/9nblggh1rl1k?rtc=1&activetab=pivot:overviewtab"
+          },
+          {
+            "id": 10,
+            "title": "Fluent Terminal",
+            "link": "microsoft.com/en-us/p/fluent-terminal/9p2krlmfxf9t?activetab=pivot:overviewtab"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "VM & Remote",
+        "fliped": false,
+        "img": null,
+        "links": [
+          { "id": 1, "title": "VirtualBox", "link": "virtualbox.org" },
+          {
+            "id": 2,
+            "title": "VirtualMachine USB Boot",
+            "link": "github.com/DavidBrenner3/VMUB/releases"
+          },
+          {
+            "id": 3,
+            "title": "OnTopReplica",
+            "link": "github.com/LorenzCK/OnTopReplica/releases"
+          },
+          { "id": 4, "title": "TeamViewer", "link": "teamviewer.com/ru" },
+          { "id": 5, "title": "AnyDesk", "link": "anydesk.com/ru" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Text & IDE",
+        "fliped": false,
+        "img": null,
+        "links": [
+          {
+            "id": 1,
+            "title": "Notepad++",
+            "link": "notepad-plus-plus.org/downloads"
+          },
+          { "id": 2, "title": "VS Code", "link": "code.visualstudio.com" },
+          { "id": 3, "title": "Atom", "link": "atom.io" },
+          {
+            "id": 4,
+            "title": "PhpStorm",
+            "link": "jetbrains.com/ru-ru/phpstorm"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Audio & Video",
+        "fliped": false,
+        "img": null,
+        "links": [
+          {
+            "id": 1,
+            "title": "Picasa",
+            "link": "picasa.ru.uptodown.com/windows/download"
+          },
+          { "id": 2, "title": "Caesium", "link": "saerasoft.com/caesium" },
+          { "id": 3, "title": "Handbrake", "link": "handbrake.fr" },
+          {
+            "id": 4,
+            "title": "FormatFactory",
+            "link": "formatfactory.ru.uptodown.com/windows"
+          },
+          { "id": 5, "title": "VLC", "link": "videolan.org/vlc/index.ru.html" }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Decorators",
+        "fliped": false,
+        "img": null,
+        "links": [
+          {
+            "id": 1,
+            "title": "Fences",
+            "link": "stardock.com/products/fences/download"
+          },
+          {
+            "id": 2,
+            "title": "PushVideoWallpaper",
+            "link": "ru.ccm.net/download/download-660-skachat-push-video-wallpaper"
+          },
+          {
+            "id": 3,
+            "title": "Wallpaper Engine",
+            "link": "store.steampowered.com/app/431960/Wallpaper_Engine"
+          },
+          { "id": 4, "title": "Desktop Calendar", "link": "desktopcal.com" },
+          { "id": 5, "title": "Rainmeter", "link": "rainmeter.net" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Online",
+    "active": false,
+    "cards": [
+      {
+        "id": 1,
+        "title": "Browsers",
+        "fliped": false,
+        "img": null,
+        "links": [
+          {
+            "id": 1,
+            "title": "Google Chrome",
+            "link": "google.com/intl/ru_ru/chrome"
+          },
+          {
+            "id": 2,
+            "title": "Mozilla Firefox",
+            "link": "mozilla.org/ru/firefox/new"
+          },
+          { "id": 3, "title": "Opera", "link": "opera.com/ru" },
+          { "id": 4, "title": "Brave", "link": "brave.com" },
+          { "id": 5, "title": "Tor", "link": "torproject.org" },
+          { "id": 6, "title": "Yandex", "link": "yandex.ru" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Games & Chat",
+        "fliped": false,
+        "img": null,
+        "links": [
+          {
+            "id": 1,
+            "title": "Steam",
+            "link": "store.steampowered.com/about"
+          },
+          {
+            "id": 2,
+            "title": "Origin",
+            "link": "origin.com/rus/ru-ru/store/download"
+          },
+          {
+            "id": 3,
+            "title": "Battle Net",
+            "link": "blizzard.com/en-us/download"
+          },
+          { "id": 4, "title": "Discord", "link": "discordapp.com" },
+          { "id": 5, "title": "Skype", "link": "skype.com/ru/get-skype" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Torrent",
+        "fliped": false,
+        "img": null,
+        "links": [
+          { "id": 1, "title": "μTorrent", "link": "utorrent.com" },
+          {
+            "id": 2,
+            "title": "qBitTorrent",
+            "link": "qbittorrent.org/download.php"
+          },
+          { "id": 3, "title": "Zona", "link": "zona.ru" },
+          { "id": 4, "title": "Rutracker", "link": "rutracker.org" },
+          { "id": 5, "title": "Rutor", "link": "new-rutor.org" },
+          { "id": 6, "title": "Window Obraz", "link": "windowsobraz.com" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Keepers",
+        "fliped": false,
+        "img": null,
+        "links": [
+          { "id": 1, "title": "Raindrop", "link": "raindrop.io" },
+          {
+            "id": 2,
+            "title": "Evernote",
+            "link": "evernote.com/intl/ru/download"
+          },
+          { "id": 3, "title": "Google keep", "link": "keep.google.com/u/0" },
+          {
+            "id": 4,
+            "title": "Google calendar",
+            "link": "calendar.google.com/calendar/r?opentasks=1"
+          },
+          {
+            "id": 5,
+            "title": "Google tasks",
+            "link": "calendar.google.com/calendar/r?opentasks=1"
+          },
+          { "id": 6, "title": "Google drive", "link": "google.com/drive" },
+          {
+            "id": 7,
+            "title": "Zoho notebook",
+            "link": "zoho.com/notebook/notebook-for-web.html"
+          },
+          { "id": 8, "title": "Pocket", "link": "getpocket.com" },
+          { "id": 9, "title": "Bitwarden", "link": "bitwarden.com" },
+          { "id": 10, "title": "Todoist", "link": "todoist.com/ru" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Playgrounds",
+        "fliped": false,
+        "img": null,
+        "links": [
+          { "id": 1, "title": "TinkerCAD", "link": "tinkercad.com" },
+          { "id": 2, "title": "CodePen", "link": "codepen.io" },
+          { "id": 3, "title": "WebMaker", "link": "webmaker.app" },
+          { "id": 4, "title": "ReplIt", "link": "repl.it" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "System",
+    "active": false,
+    "cards": [
+      {
+        "id": 1,
+        "title": "Cleaners",
+        "fliped": false,
+        "img": null,
+        "links": [
+          {
+            "id": 1,
+            "title": "ADW Cleaner",
+            "link": "ru.malwarebytes.com/adwcleaner"
+          },
+          { "id": 2, "title": "CCleaner", "link": "ccleaner.com/ru-ru" },
+          {
+            "id": 3,
+            "title": "Dr.Web CureIT!",
+            "link": "free.drweb.ru/download+cureit+free"
+          },
+          {
+            "id": 4,
+            "title": "Revo Unistaller",
+            "link": "revouninstaller.com/ru/revo-uninstaller-free-download"
+          },
+          {
+            "id": 5,
+            "title": "Reg Organizer",
+            "link": "chemtable.com/ru/organizer.htm"
+          },
+          {
+            "id": 6,
+            "title": "Unlocker",
+            "link": "unlocker.ru.uptodown.com/windows"
+          },
+          {
+            "id": 7,
+            "title": "TakeOwnershipPro",
+            "link": "rsload.net/soft/cleaner-disk/18515-takeownershippro.html"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Archive & Compress Data",
+        "fliped": false,
+        "img": null,
+        "links": [
+          {
+            "id": 1,
+            "title": "7zip",
+            "link": "sourceforge.net/projects/sevenzip/files/7-Zip/19.00/7z1900-x64.exe/download"
+          },
+          { "id": 2, "title": "WinRar", "link": "win-rar.com" },
+          {
+            "id": 3,
+            "title": "UtraISO",
+            "link": "ultraiso.ru.uptodown.com/windows/download"
+          },
+          {
+            "id": 4,
+            "title": "DeepSound",
+            "link": "deepsound.ru.uptodown.com/windows"
+          },
+          {
+            "id": 5,
+            "title": "JPG to ZIP",
+            "link": "onlineconvertfree.com/convert-format/jpg-to-zip"
+          },
+          {
+            "id": 6,
+            "title": "Resource Hacker",
+            "link": "angusj.com/resourcehacker"
+          },
+          { "id": 84, "title": "Total Commander", "link": "ghisler.com" },
+          { "id": 85, "title": "HashTab", "link": "hashtab.ru" }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "Backup Data",
+        "fliped": false,
+        "img": null,
+        "links": [
+          { "id": 86, "title": "Recuva", "link": "ccleaner.com/recuva" },
+          {
+            "id": 1,
+            "title": "TestDisk",
+            "link": "cgsecurity.org/wiki/TestDisk_RU"
+          },
+          {
+            "id": 2,
+            "title": "PhotoRec",
+            "link": "cgsecurity.org/wiki/PhotoRec_RU"
+          },
+          {
+            "id": 3,
+            "title": "GetDataBack",
+            "link": "runtime.org/data-recovery-software.htm"
+          },
+          {
+            "id": 4,
+            "title": "MiniTool Partition Wizard",
+            "link": "partitionwizard.com/disk-recovery"
+          },
+          { "id": 5, "title": "Hetman", "link": "hetmanrecovery.com/ru" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Drivers",
+        "fliped": false,
+        "img": null,
+        "links": [
+          { "id": 1, "title": "AMD", "link": "amd.com/ru/support" },
+          {
+            "id": 2,
+            "title": "nVidia",
+            "link": "nvidia.ru/Download/index.aspx?lang=ru"
+          },
+          {
+            "id": 3,
+            "title": "K-Lite Codec Pack",
+            "link": "codecguide.com/download_kl.htm"
+          },
+          { "id": 4, "title": "DriverPack Solution", "link": "drp.su/ru" }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Partitioning",
+        "fliped": false,
+        "img": null,
+        "links": [
+          { "id": 1, "title": "SARDU", "link": "sarducd.it" },
+          {
+            "id": 2,
+            "title": "YUMI",
+            "link": "pendrivelinux.com/yumi-multiboot-usb-creator"
+          },
+          { "id": 3, "title": "Rufus", "link": "rufus.ie" },
+          {
+            "id": 4,
+            "title": "WinSetupFromUSB",
+            "link": "winsetupfromusb.com/downloads"
+          },
+          { "id": 5, "title": "Etcher", "link": "balena.io/etcher" },
+          {
+            "id": 6,
+            "title": "Win32 Disk Imager",
+            "link": "sourceforge.net/projects/win32diskimager"
+          },
+          {
+            "id": 7,
+            "title": "MiniTool Partition Wizard",
+            "link": "partitionwizard.com/free-partition-manager.html"
+          },
+          { "id": 8, "title": "BootIce", "link": "usbdev.ru/files/bootice" },
+          { "id": 9, "title": "Easy2Boot", "link": "easy2boot.com/download" },
+          {
+            "id": 10,
+            "title": "TestUSB",
+            "link": "raymond.cc/blog/how-to-check-and-test-usb-flash-drive"
+          },
+          { "id": 11, "title": "RMPrepUSB", "link": "rmprepusb.com" }
+        ]
+      }
+    ]
+  }
+]
