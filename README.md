@@ -1,24 +1,9 @@
-# implinks
+# Links
 
-## Project setup
-```
-npm install
-```
+bunch of links to programs I use
 
-### Compiles and hot-reloads for development
+```bash
+npm i # intall dependences
+npm run build # build a production version
+npm run serve # development with hotreload
 ```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
