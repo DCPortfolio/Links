@@ -1,0 +1,433 @@
+[
+  {
+    "id": 1,
+    "title": "Activity",
+    "active": false,
+    "cards": [
+      {
+        "id": 1,
+        "title": "Start",
+        "links": [
+          {
+            "id": 1,
+            "title": "7zip",
+            "link": "sourceforge.net/projects/sevenzip/files/7-Zip/19.00/7z1900-x64.exe/download"
+          },
+          {
+            "id": 2,
+            "title": "qBitTorrent",
+            "link": "qbittorrent.org/download.php"
+          },
+          { "id": 3, "title": "DriverPack", "link": "drp.su/ru" },
+          {
+            "id": 4,
+            "title": "Aact / KMS",
+            "link": "windowsobraz.com/aktivatory/115-aktivator-windows-2018-aact-383-portable.html"
+          },
+          {
+            "id": 5,
+            "title": "Revo Unistaller",
+            "link": "revouninstaller.com/ru/revo-uninstaller-free-download"
+          },
+          {
+            "id": 6,
+            "title": "K-Lite Codec Pack",
+            "link": "codecguide.com/download_kl.htm"
+          },
+          {
+            "id": 7,
+            "title": "Chrome",
+            "link": "google.com/intl/ru_ru/chrome"
+          },
+          {
+            "id": 8,
+            "title": "Notepad++",
+            "link": "notepad-plus-plus.org/downloads"
+          },
+          {
+            "id": 9,
+            "title": "Picasa",
+            "link": "picasa.ru.uptodown.com/windows/download"
+          },
+          { "id": 10, "title": "VLC", "link": "videolan.org/vlc/index.ru.html" }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Utilites",
+        "links": [
+          {
+            "id": 11,
+            "title": "Psiphon",
+            "link": "psiphon3.com/ru/index.html"
+          },
+          {
+            "id": 12,
+            "title": "Cool - Retro - Term",
+            "link": "gist.github.com/h3r/2d5dcb2f64cf34b6f7fdad85c57c1a45"
+          },
+          {
+            "id": 13,
+            "title": "Punto Switcher",
+            "link": "yandex.ru/soft/punto"
+          },
+          {
+            "id": 14,
+            "title": "ProcessHacker",
+            "link": "processhacker.sourceforge.io"
+          },
+          {
+            "id": 15,
+            "title": "GitAhead",
+            "link": "gitahead.github.io/gitahead.com"
+          },
+          { "id": 16, "title": "TortoiseGit", "link": "tortoisegit.org" },
+          {
+            "id": 17,
+            "title": "nVidia RTX Voice",
+            "link": "nvidia.com/en-us/geforce/guides/nvidia-rtx-voice-setup-guide/"
+          }
+        ]
+      },
+      {
+        "id": 3,
+        "title": "VM & Remote",
+        "links": [
+          { "id": 18, "title": "VirtualBox", "link": "virtualbox.org" },
+          {
+            "id": 19,
+            "title": "VirtualMachine USB Boot",
+            "link": "github.com/DavidBrenner3/VMUB/releases"
+          },
+          {
+            "id": 20,
+            "title": "OnTopReplica",
+            "link": "github.com/LorenzCK/OnTopReplica/releases"
+          },
+          { "id": 21, "title": "Vagrant", "link": "vagrantup.com/" },
+          { "id": 22, "title": "TeamViewer", "link": "teamviewer.com/ru" },
+          { "id": 23, "title": "AnyDesk", "link": "anydesk.com/ru" }
+        ]
+      },
+      {
+        "id": 4,
+        "title": "Text & IDE",
+        "links": [
+          {
+            "id": 24,
+            "title": "Notepad++",
+            "link": "notepad-plus-plus.org/downloads"
+          },
+          { "id": 25, "title": "VS Code", "link": "code.visualstudio.com" },
+          { "id": 26, "title": "Atom", "link": "atom.io" },
+          {
+            "id": 27,
+            "title": "WebStorm",
+            "link": "jetbrains.com/ru-ru/webstorm/"
+          }
+        ]
+      },
+      {
+        "id": 5,
+        "title": "Media",
+        "links": [
+          {
+            "id": 28,
+            "title": "Picasa",
+            "link": "picasa.ru.uptodown.com/windows/download"
+          },
+          { "id": 29, "title": "Caesium", "link": "saerasoft.com/caesium" },
+          { "id": 30, "title": "Handbrake", "link": "handbrake.fr" },
+          {
+            "id": 31,
+            "title": "FormatFactory",
+            "link": "formatfactory.ru.uptodown.com/windows"
+          },
+          { "id": 32, "title": "VLC", "link": "videolan.org/vlc/index.ru.html" }
+        ]
+      },
+      {
+        "id": 6,
+        "title": "Decorators",
+        "links": [
+          {
+            "id": 33,
+            "title": "Fences",
+            "link": "stardock.com/products/fences/download"
+          },
+          {
+            "id": 34,
+            "title": "PushVideoWallpaper",
+            "link": "ru.ccm.net/download/download-660-skachat-push-video-wallpaper"
+          },
+          {
+            "id": 35,
+            "title": "Wallpaper Engine",
+            "link": "store.steampowered.com/app/431960/Wallpaper_Engine"
+          },
+          { "id": 36, "title": "Desktop Calendar", "link": "desktopcal.com" },
+          { "id": 37, "title": "Rainmeter", "link": "rainmeter.net" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "title": "Online",
+    "active": false,
+    "cards": [
+      {
+        "id": 7,
+        "title": "Browsers",
+        "links": [
+          {
+            "id": 38,
+            "title": "Google Chrome",
+            "link": "google.com/intl/ru_ru/chrome"
+          },
+          {
+            "id": 39,
+            "title": "Mozilla Firefox",
+            "link": "mozilla.org/ru/firefox/new"
+          },
+          { "id": 40, "title": "Opera", "link": "opera.com/ru" },
+          { "id": 41, "title": "Brave", "link": "brave.com" },
+          { "id": 42, "title": "Tor", "link": "torproject.org" },
+          { "id": 43, "title": "Yandex", "link": "yandex.ru" }
+        ]
+      },
+      {
+        "id": 8,
+        "title": "Games & Chat",
+        "links": [
+          {
+            "id": 44,
+            "title": "Steam",
+            "link": "store.steampowered.com/about"
+          },
+          {
+            "id": 45,
+            "title": "Origin",
+            "link": "origin.com/rus/ru-ru/store/download"
+          },
+          {
+            "id": 46,
+            "title": "Battle Net",
+            "link": "blizzard.com/en-us/download"
+          },
+          { "id": 47, "title": "Discord", "link": "discordapp.com" },
+          { "id": 48, "title": "Skype", "link": "skype.com/ru/get-skype" }
+        ]
+      },
+      {
+        "id": 9,
+        "title": "Torrent",
+        "links": [
+          { "id": 49, "title": "μTorrent", "link": "utorrent.com" },
+          {
+            "id": 50,
+            "title": "qBitTorrent",
+            "link": "qbittorrent.org/download.php"
+          },
+          { "id": 51, "title": "Zona", "link": "zona.ru" },
+          { "id": 52, "title": "Rutracker", "link": "rutracker.org" },
+          { "id": 53, "title": "Rutor", "link": "new-rutor.org" },
+          { "id": 54, "title": "Window Obraz", "link": "windowsobraz.com" }
+        ]
+      },
+      {
+        "id": 10,
+        "title": "Keepers",
+        "links": [
+          { "id": 55, "title": "Raindrop", "link": "raindrop.io" },
+          {
+            "id": 56,
+            "title": "Evernote",
+            "link": "evernote.com/intl/ru/download"
+          },
+          { "id": 57, "title": "Google keep", "link": "keep.google.com/u/0" },
+          {
+            "id": 58,
+            "title": "Google calendar",
+            "link": "calendar.google.com/calendar/r?opentasks=1"
+          },
+          {
+            "id": 59,
+            "title": "Google tasks",
+            "link": "calendar.google.com/calendar/r?opentasks=1"
+          },
+          { "id": 60, "title": "Google drive", "link": "google.com/drive" },
+          { "id": 61, "title": "Notion", "link": "notion.so/" },
+          { "id": 62, "title": "Pocket", "link": "getpocket.com" },
+          { "id": 63, "title": "Bitwarden", "link": "bitwarden.com" },
+          { "id": 64, "title": "Todoist", "link": "todoist.com/ru" }
+        ]
+      },
+      {
+        "id": 11,
+        "title": "Playgrounds",
+        "links": [
+          { "id": 65, "title": "TinkerCAD", "link": "tinkercad.com" },
+          { "id": 66, "title": "CodePen", "link": "codepen.io" },
+          { "id": 67, "title": "WebMaker", "link": "webmaker.app" },
+          { "id": 68, "title": "ReplIt", "link": "repl.it" }
+        ]
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "title": "System",
+    "active": false,
+    "cards": [
+      {
+        "id": 12,
+        "title": "Cleaners",
+        "links": [
+          {
+            "id": 69,
+            "title": "ADW Cleaner",
+            "link": "ru.malwarebytes.com/adwcleaner"
+          },
+          { "id": 70, "title": "CCleaner", "link": "ccleaner.com/ru-ru" },
+          {
+            "id": 71,
+            "title": "Dr.Web CureIT!",
+            "link": "free.drweb.ru/download+cureit+free"
+          },
+          {
+            "id": 72,
+            "title": "Revo Unistaller",
+            "link": "revouninstaller.com/ru/revo-uninstaller-free-download"
+          },
+          {
+            "id": 73,
+            "title": "Reg Organizer",
+            "link": "chemtable.com/ru/organizer.htm"
+          },
+          {
+            "id": 74,
+            "title": "Unlocker",
+            "link": "unlocker.ru.uptodown.com/windows"
+          },
+          {
+            "id": 75,
+            "title": "TakeOwnershipPro",
+            "link": "rsload.net/soft/cleaner-disk/18515-takeownershippro.html"
+          }
+        ]
+      },
+      {
+        "id": 13,
+        "title": "Archive",
+        "links": [
+          {
+            "id": 76,
+            "title": "7zip",
+            "link": "sourceforge.net/projects/sevenzip/files/7-Zip/19.00/7z1900-x64.exe/download"
+          },
+          { "id": 77, "title": "WinRar", "link": "win-rar.com" },
+          {
+            "id": 78,
+            "title": "UtraISO",
+            "link": "ultraiso.ru.uptodown.com/windows/download"
+          },
+          {
+            "id": 79,
+            "title": "DeepSound",
+            "link": "deepsound.ru.uptodown.com/windows"
+          },
+          {
+            "id": 80,
+            "title": "JPG to ZIP",
+            "link": "onlineconvertfree.com/convert-format/jpg-to-zip"
+          },
+          {
+            "id": 81,
+            "title": "Resource Hacker",
+            "link": "angusj.com/resourcehacker"
+          },
+          { "id": 82, "title": "Total Commander", "link": "ghisler.com" },
+          { "id": 83, "title": "HashTab", "link": "hashtab.ru" }
+        ]
+      },
+      {
+        "id": 14,
+        "title": "Backup Data",
+        "links": [
+          { "id": 84, "title": "Recuva", "link": "ccleaner.com/recuva" },
+          {
+            "id": 85,
+            "title": "TestDisk",
+            "link": "cgsecurity.org/wiki/TestDisk_RU"
+          },
+          {
+            "id": 86,
+            "title": "PhotoRec",
+            "link": "cgsecurity.org/wiki/PhotoRec_RU"
+          },
+          {
+            "id": 87,
+            "title": "GetDataBack",
+            "link": "runtime.org/data-recovery-software.htm"
+          },
+          {
+            "id": 88,
+            "title": "MiniTool Partition Wizard",
+            "link": "partitionwizard.com/disk-recovery"
+          },
+          { "id": 89, "title": "Hetman", "link": "hetmanrecovery.com/ru" }
+        ]
+      },
+      {
+        "id": 15,
+        "title": "Drivers",
+        "links": [
+          { "id": 90, "title": "AMD", "link": "amd.com/ru/support" },
+          {
+            "id": 91,
+            "title": "nVidia",
+            "link": "nvidia.ru/Download/index.aspx?lang=ru"
+          },
+          {
+            "id": 92,
+            "title": "K-Lite Codec Pack",
+            "link": "codecguide.com/download_kl.htm"
+          },
+          { "id": 93, "title": "DriverPack Solution", "link": "drp.su/ru" }
+        ]
+      },
+      {
+        "id": 16,
+        "title": "USB Burn",
+        "links": [
+          { "id": 94, "title": "Rufus", "link": "rufus.ie" },
+          {
+            "id": 95,
+            "title": "WinSetupFromUSB",
+            "link": "winsetupfromusb.com/downloads"
+          },
+          { "id": 96, "title": "Etcher", "link": "balena.io/etcher" },
+          {
+            "id": 97,
+            "title": "Win32 Disk Imager",
+            "link": "sourceforge.net/projects/win32diskimager"
+          },
+          {
+            "id": 98,
+            "title": "MiniTool Partition Wizard",
+            "link": "partitionwizard.com/free-partition-manager.html"
+          },
+          { "id": 99, "title": "BootIce", "link": "usbdev.ru/files/bootice" },
+          { "id": 100, "title": "Easy2Boot", "link": "easy2boot.com/download" },
+          {
+            "id": 101,
+            "title": "TestUSB",
+            "link": "raymond.cc/blog/how-to-check-and-test-usb-flash-drive"
+          },
+          { "id": 102, "title": "RMPrepUSB", "link": "rmprepusb.com" }
+        ]
+      }
+    ]
+  }
+]
